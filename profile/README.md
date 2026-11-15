@@ -14,12 +14,12 @@ We automate the real apps on real Android phones: phone farms, WhatsApp, Instagr
 
 ### In production
 
-| | |
-|---|---|
-| **611,000+** | automation runs on real Android phones |
-| **99.99%** | success over the last 7 days (103,438 runs) |
-| **10.7M** | automation steps executed |
-| **104,000+** | WhatsApp messages sent from real phones |
+<table>
+  <tr><td><b>611,000+</b></td><td>automation runs on real Android phones</td></tr>
+  <tr><td><b>99.99%</b></td><td>success over the last 7 days (103,438 runs)</td></tr>
+  <tr><td><b>10.7M</b></td><td>automation steps executed</td></tr>
+  <tr><td><b>104,000+</b></td><td>WhatsApp messages sent from real phones</td></tr>
+</table>
 
 ### What we do
 
